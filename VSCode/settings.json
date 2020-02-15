@@ -1,0 +1,28 @@
+{
+    "telemetry.enableTelemetry": false,
+    "editor.fontFamily": "'FiraCode-Retina'",
+    "files.autoSave": "afterDelay",
+    "breadcrumbs.enabled": true,
+    "window.titleBarStyle": "custom",
+    "editor.cursorBlinking": "smooth",
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "window.restoreWindows": "all",
+    "team.appInsights.enabled": false,
+    "team.showWelcomeMessage": false,
+    "window.zoomLevel": 0,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.colorTheme": "One Dark Pro",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2
+}

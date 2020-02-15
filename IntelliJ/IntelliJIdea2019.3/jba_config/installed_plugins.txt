@@ -1,0 +1,7 @@
+Lombook Plugin
+com.github.leomillon.uuidgenerator
+com.intellij.plugins.resharperkeymap
+com.intellij.plugins.vscodekeymap
+com.paperetto.dash
+github.cweijan.test-theme
+hu.aradipatrik.onedarknative
