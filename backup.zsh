@@ -6,6 +6,7 @@ DEST="/Users/ryanoshea/Library/Mobile Documents/com~apple~CloudDocs/Mac Backup/T
 
 # Shell
 CUR_DEST="$DEST/Shell"
+rsync -av .zshrc "$CUR_DEST/"
 rsync -av .oh-my-zsh/custom "$CUR_DEST/.oh-my-zsh"
 rsync -av .zsh_history "$CUR_DEST/"
 rsync -av .dotfiles "$CUR_DEST/" # Toast config
