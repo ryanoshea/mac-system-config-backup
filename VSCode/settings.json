@@ -24,5 +24,7 @@
     "editor.cursorSmoothCaretAnimation": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single"
 }
