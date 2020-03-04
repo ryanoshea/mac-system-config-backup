@@ -5,3 +5,5 @@ com.intellij.plugins.vscodekeymap
 com.paperetto.dash
 github.cweijan.test-theme
 hu.aradipatrik.onedarknative
+com.github.tomasmilata.intelliroutes
+org.jetbrains.kotlin
