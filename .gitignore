@@ -42,6 +42,7 @@ IntelliJ/IntelliJIdea2019.3/tasks/*
 IntelliJ/IntelliJIdea2019.3/terminal/history/*
 IntelliJ/IntelliJIdea2019.3/UUID Generator/*
 IntelliJ/IntelliJIdea2019.3/workspace/*
+IntelliJ/IntelliJIdea2019.3/Kotlin/*
 Shell/.zsh_history
 Shell/.dotfiles/*
 Shell/.oh-my-zsh/custom/example.zsh
@@ -51,3 +52,6 @@ Shell/.oh-my-zsh/custom/themes/*.zsh-theme
 SSH/.ssh/*
 code.style.schemes.xml
 databaseDrivers.xml
+disabled_update.txt
+port
+IntelliJ/IntelliJIdea2019.3/project/lib
