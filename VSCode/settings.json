@@ -26,5 +26,11 @@
     "files.trimTrailingWhitespace": true,
     "editor.tabSize": 2,
     "javascript.preferences.quoteStyle": "single",
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",
+    "editor.rulers": [
+        120
+    ],
+    "eslint.format.enable": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline"
 }
