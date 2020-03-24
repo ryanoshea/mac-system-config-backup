@@ -3,7 +3,6 @@
     "editor.fontFamily": "'FiraCode-Retina'",
     "files.autoSave": "afterDelay",
     "breadcrumbs.enabled": true,
-    "window.titleBarStyle": "custom",
     "editor.cursorBlinking": "smooth",
     "editor.fontLigatures": true,
     "editor.formatOnPaste": true,
@@ -32,5 +31,6 @@
     ],
     "eslint.format.enable": true,
     "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorStyle": "underline"
+    "terminal.integrated.cursorStyle": "underline",
+    "gitlens.hovers.currentLine.over": "line"
 }
