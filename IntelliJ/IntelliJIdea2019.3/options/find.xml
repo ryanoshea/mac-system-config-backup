@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.kt, *.java, *.yaml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,5 +13,6 @@
     <mask>*.java</mask>
     <mask>*.java, *.kt</mask>
     <mask>*.kt</mask>
+    <mask>*.kt, *.java, *.yaml</mask>
   </component>
 </application>
